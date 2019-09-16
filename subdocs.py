@@ -1,2 +1,5 @@
 def log():
-    print("Hello work")
+    return ("Hello world")
+
+# if __name__ == '__main__':
+#     main()
